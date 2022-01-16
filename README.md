@@ -5,4 +5,4 @@ The Central Index Key (CIK) is used on the SEC's computer systems to identify co
 
 I gathered 13F filings from 2013 Q2 to 2020 Q4 (since 2013 Q2 the 13f forms are reported in XML file), and the final collection contains 146,607 files.
 
-The data folder in the project only contains the 13f filings of Blackstone Inc. (CIK:0001393818) for the simple test of scraper functionality and the initial exploration on the collected data.
+The data folder in the project only contains the 13f filings of Blackstone Inc. (CIK:0001393818) for the simple test of the functionality of scraper and the initial exploration on the collected data.
