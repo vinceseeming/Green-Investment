@@ -1,5 +1,5 @@
 # Green-Investment
-This project includes a Python Web scraper for parsing 13f filings from SEC's website, [EDGAR](https://www.sec.gov/edgar/search-and-access) and writing them into .csv files. The basic_assistant.py defines some functions used in the scraper, and the scraper.py is the major component of the web scraper.
+This project includes a Python Web scraper for extracting 13f filings from SEC's website, [EDGAR](https://www.sec.gov/edgar/search-and-access) and writing them into .csv files. The basic_assistant.py defines some functions used in the scraper, and the scraper.py is the major component of the web scraper.
 
 The basic workflow of the scraper is 1) given the cik number, find the corresponding company's webpage; 2) check if the company discloses 13f forms; 3) if yes, collect the links of filing pages and parse the information table. 
 
